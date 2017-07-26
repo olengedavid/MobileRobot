@@ -1,2 +1,18 @@
-# Benji-mobileRobot
-This is an arduino project that involves a mobile robot that is capable of traversing difficult terrain along with obstacle detection and basic robotic arm lift and drop capability. UltraSonic sensors and IR sensors were used for obstacle detection. A Bluetooth module was also installed to give remote status commands to the robot using an android phone.
+# MobileRobot
+A mobile robot built using arduino.
+
+## Components and Sensors used
+* Arduino Mega
+* IR08H Sensors
+* 4 x 100 RPM Motors
+* L293D Motor Shield
+* Ultrasonic sensors
+* HC 05 Bluetooth Module
+* Metal Chassis
+* 4 x wheels
+* 2 x power banks as power source 
+
+## Functionalities
+* Can traverse difficult terrain (sand and bumpy roads tested)
+* Can perform automated obstacle avoidance.
+* Can use a robotic arm to lift and place loads of upto 250 gms.
