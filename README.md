@@ -16,3 +16,4 @@ A mobile robot built using arduino.
 * Can traverse difficult terrain (sand and bumpy roads tested)
 * Can perform automated obstacle avoidance.
 * Can use a robotic arm to lift and place loads of upto 250 gms.
+* State change (changing the robot from one mode to another) can be done using a smart phone and pairing with the bluetooth module.
